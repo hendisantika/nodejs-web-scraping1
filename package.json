@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/hendisantika/nodejs-web-scraping1#readme",
   "dependencies": {
-    "axios": "^1.13.5",
+    "axios": "^1.15.0",
     "cheerio": "^1.0.0-rc.12"
   }
 }
